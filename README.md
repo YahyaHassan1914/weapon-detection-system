@@ -19,11 +19,7 @@ The system is currently under development. Key functionalities like weapon detec
 - **GPU Support**: To accelerate the detection process.
 
 ## Usage
-1. **Run the application**:
-    ```bash
-    python main.py
-    ```
-2. **Monitor the system**:
+**Monitor the system**:
     - Access the real-time monitoring dashboard via the provided cloud server URL.
     - Receive SMS notifications for detected weapons.
 
